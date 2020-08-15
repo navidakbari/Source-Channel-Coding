@@ -4,9 +4,9 @@ In this repository I implemented a simple version of channel coding using Huffma
 
 ## How it Works?
 
-**Source Coding**: For source coding, I implemented **huffman tree** as source coder and decoder. This tree build based on the alphabets we have and their frequency. The frequency of the alphabets are in `freq.txt` file.
+**Source Coding**: For source coding, I implemented `huffman tree` as source coder and decoder. This tree build based on the alphabets we have and their frequency. The frequency of the alphabets are in `freq.txt` file.
 
-**Channel Coding**: In this part, channel encoding implemented by a convolutional encoder, using below state machine. 
+**Channel Coding**: In this part, channel encoding implemented by a `convolutional encoder`, using below state machine. 
 
 <img src="./Images/1.png" width="300">
 
